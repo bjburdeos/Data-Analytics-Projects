@@ -1,2 +1,2 @@
-# Excel-Dashboards
-Data Analysis using Microsoft Excel
+# Sample-Dashboards/Presentation
+Data Analysis using SQL, Power BI, Excel
